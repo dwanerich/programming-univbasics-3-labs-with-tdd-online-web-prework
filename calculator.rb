@@ -1,6 +1,7 @@
 first_number = "a"
 second_number = "b"
 
-sum = first_number + second_number
-difference = first_number - second_number
-product = first_number * second_number
+sum = a + b
+difference = a - b
+product = a * b
+quotient = a / b
