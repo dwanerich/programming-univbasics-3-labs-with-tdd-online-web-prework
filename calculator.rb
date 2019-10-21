@@ -1,1 +1,1 @@
-first_number = x
+first_number = 1
