@@ -1,5 +1,5 @@
-first_number = 1
-second_number = 2
+first_number = a
+second_number = b
 
 sum = a + b
 difference = a - b
